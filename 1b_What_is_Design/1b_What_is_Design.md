@@ -32,7 +32,7 @@ The product or result of Design Thinking, Design Doing and Design Implementation
 When designing user experience part, it is very important to develop and refine skills to understand and address rapid changes in users’ environments and behaviors. The world has become increasingly interconnected and complex. Design is what is bringing customers and business together. And it’s not just about the name and the logo that you choose, but rather an entire image or a feeling that a customer gets when dealing with the company. The design process is a multi-stage process. It involves creative phase as non-creative phases. Apart from creative ability, graphic designers need to develop other skills such as observation, research, coordination and management, technical knowledge. The design process is essential for a graphic designer, whether you are creating a website, creating a logo or creating any social media post.
 </p>
 <p align="center">
-<img src="./Design_images/Importace_of_Design_Process.png" alt="" width="350">
+<img src="./Design_images/Importace_of_Design_Process.png" alt="" width="750">
 </p>
 
 ### Steps to follow when designing something.
