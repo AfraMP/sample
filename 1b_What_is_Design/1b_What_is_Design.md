@@ -1,89 +1,74 @@
-# WHAT IS DESIGN THINKING ? 
+# WHAT IS DESIGN ? 
 
 <p align="justify">
-Design thinking is a non linear, iterative process that teams use to understand user, challenge assumptions, redefine problems and create innovation solutions to prototype and test. Design thinking uses creative activities to foster collaboration and solve problems in human-centered ways. It is a human-centered approach to innovation that draws from the designer’s toolkit to integrate the needs of people, the possibilities of technology, and the requirements for business success. Thinking like a designer can transform the way organizations develop products, services, processes, and strategy. This approach, which is known as design thinking, brings together what is desirable from a human point of view with what is technologically feasible and economically viable. It also allows people who aren't trained as designers to use creative tools to address a vast range of challenges. Design thinking is most useful to tackle problems that are ill-defined or unknown. To think like a designer requires dreaming up wild ideas, taking time to tinker and test, and being willing to fail early and often. The designer's mindset embraces empathy, optimism, iteration, creativity, and ambiguity. And most critically, design thinking keeps people at the center of every process. Design thinking involves five phases which are as follows :
+A design is a plan or specification for the construction of an object or system or for the implementation of an activity or process, or the result of that plan or specification in the form of a prototype, product or process. A design can also be considered as a plan to make something new for people, that they perceive as beneficial. In some cases, the direct construction of an object without an explicit prior plan such as in craftwork, some engineering, coding, and graphic design may also be considered to be a design activity. 
 </p>
 <p align="center">
-<img src="./DesignThinking_images/Design_Thinking.png" alt="" width="650">
+<img src="./Design_images/Design.png" alt="" width="650">
 </p>
-
-  - Empathize
-  - Define
-  - Ideate
-  - Prototype 
-  - Test
-
-<p align="justify"> 
-Design thinking encompasses processes such as context analysis, problem finding and framing, ideation and solution generating, creative thinking, sketching and drawing, modelling and prototyping, testing and evaluating. Some of the core features of design thinking include the abilities to:
-</p>
-
-- resolve ill-defined or 'wicked' problems
-- adopt solution-focused strategies
-- use abductive and productive reasoning
-- employ non-verbal, graphic/spatial modelling media
-
-## Why Is Design Thinking so Important?
 <p align="justify">
-When designing user experience part, it is very important to develop and refine skills to understand and address rapid changes in users’ environments and behaviors. The world has become increasingly interconnected and complex. In 21<sup>st</sup> century organizations from a wide range of industries find design thinking a valuable means to solve problems for the users of their products and services. Designing teams use design thinking to tackle ill-defined/unknown problems because they can reframe these in human-centric ways and focus on what is most important for users. Of all design processes, design thinking is almost certainly the best for “thinking outside the box”. With it, teams can do better UX research, prototyping and usability testing to uncover new ways to meet users’ needs.
+Design is at the service of the people. On the other hand, it takes the problem-solving aspect of science. It exists primarily to address a particular need. To quote Steve Jobs: “Design is not just what it looks like and feels like. Design is how it works.”. The design usually has to satisfy certain goals and constraints, may take into account aesthetic, functional, economic, or socio-political considerations, and is expected to interact with a certain environment. Major examples of designs include architectural blueprints, engineering drawings, business processes, circuit diagrams, and sewing patterns.
+The design plays a most and much more important role in today’s different types of competitive global environment. A good type of design should be able to effectively communicate the overall message serving the purpose of it. 
+Many still think design is there only to make things look good. But we’ve known for over a century now that good design is created when looks and function are developed together. Design isn’t about just visual skills or making things nice. It can be about life and death. Think of airplane controls—’Human error’ as the cause. Design happens in many professions and not just in product development. But design is about more than reducing engineering costs. Designers create plans for products that people want, need and like. It gives purpose to production beyond market mechanics. We can consider design to consist of the series of processes of thinking constantly about people most of all, identifying objectives, and planning ways to achieve them. It is believed that what is realized as a result of this process is one design solution.
+</p>
+
+- **Design is a Process**
+<p align="justify">
+Design is not just about products. It is about the way in which you arrive at the best results. The term “Design Thinking” describes an approach for the practical finding and resolution of problems. It combines empathy, creativity and rationality to meet user needs and drive business success. In the world of design thinking, design is a three-phase process of “discover, design and deliver.” Other companies use different words and different steps, but in general it is always the same. The key for success is iteration with customers and users from the beginning to the end.
+</p>
+
+- **Design Requires Skills and Mindset**
+<p align="justify">
+In order to complete all three phases of the design process, organizations require a new set of skills and mindset, including facilitation, coaching, brainstorming and idea generation (Design Thinking). In reality, additional skills are needed, including design “doing” and design “implementation”. With Design Doing, people engage with the end user, do user research and translate those observations into interaction design and visual design. This requires skills in psychology to understand what users really need (user research), prototype and mockup creation (interaction design), as well as color and typography (visual design). Design Implementation, meanwhile, requires UI development and coding capabilities in languages like HTML5.
+</p>
+
+- **Design Delivers Results**
+<p align="justify">
+The product or result of Design Thinking, Design Doing and Design Implementation is the user interface and user experience. The user interface is what the individual interacts with, like the screen on his phone or tablet, for instance. In most cases, you interact with the user interface in a physical way, most often through touch or sight. The user experience is the broader context in which the UI exists, taking into consideration the individual’s role in the overall process, how he or she collaborates with other people, and the environment in which the individual and the UI exist.
+</p>
+
+## Importance of Design Process
+<p align="justify">
+When designing user experience part, it is very important to develop and refine skills to understand and address rapid changes in users’ environments and behaviors. The world has become increasingly interconnected and complex. Design is what is bringing customers and business together. And it’s not just about the name and the logo that you choose, but rather an entire image or a feeling that a customer gets when dealing with the company. The design process is a multi-stage process. It involves creative phase as non-creative phases. Apart from creative ability, graphic designers need to develop other skills such as observation, research, coordination and management, technical knowledge. The design process is essential for a graphic designer, whether you are creating a website, creating a logo or creating any social media post.
 </p>
 <p align="center">
-<img src="./DesignThinking_images/DesignThinking_CoreActivity.png" alt="" width="350">
-</p>
-Design thinking’s value as a world-improving, driving force in business matches its status as a popular subject at leading international universities. With design thinking, teams have the freedom to generate ground-breaking solutions. Using it, we can get behind hard-to-access insights and apply a collection of hands-on methods to help find innovative answers.
+<img src="./Design_images/Importace_of_Design_Process.png" alt="" width="350">
 </p>
 
-## The Five Stages of Design Thinking
-</p>
-<p align="center">
-<img src="./DesignThinking_images/DesignThinking_Process.png" alt="" width="650">
-</p>
+### Steps to follow when designing something.
 
-- Stage 1: **Empathize—Research Your Users' Needs**
-
-  - generally the starting point
-  - encourages students to ask great questions
-  - learn about the audience for whom you are designing
-  - collect examples of other attempts to solve the same issue
-  - identify existing obstacles
-<p align="justify"> 
-Here, you should gain an empathetic understanding of the problem you’re trying to solve, typically through user research. Empathy is crucial to a human-centered design process such as design thinking because it allows you to set aside your own assumptions about the world and gain real insight into users and their needs.
+- **Design Brief**
+<p align="justify">
+Before beginning anything you just need to know exactly what client requirements and necessities. So, gathering the requirements from the client is very important. After collecting all the information you can reach out to them such as to ask project-related questions, and most importantly know their goals or objectives.
 </p>
 
-- Stage 2: **Define—State Your Users' Needs and Problems**
-
-  - redefine the deeper roots of the issue based on new knowledge from empathy
-  - determine what will make this project successful
-  - identify the needs and motivations of end-users
-<p align="justify"> 
-It’s time to accumulate the information gathered during the Empathize stage. You then analyze your observations and synthesize them to define the core problems you and your team have identified. These definitions are called problem statements. You can create personas to help keep your efforts human-centered before proceeding to ideation.
+- **Research**
+<p align="justify">
+The research will always save you lots of thinking time. This step is crucial don’t skip as some time spent on research will give you an advantage. Research is one of the important factor which gives deep direction to the designers, or user research consultants.
 </p>
 
-- Stage 3: **Ideate—Challenge Assumptions and Create Ideas**
-
-  - generate as many ideas as possible to serve these identified needs
-  - log your brainstorming session
-  - do not judge or debate ideas as this limits creativity
-<p align="justify"> 
-Now, you’re ready to generate ideas. The solid background of knowledge from the first two phases means you can start to “think outside the box”, look for alternative ways to view the problem and identify innovative solutions to the problem statement you’ve created. Brainstorming is particularly useful here..
+- **Sketching**
+<p align="justify">
+It’s time to give some structure to the project. Before moving into a software such as an illustrator Photoshop, create a few simple hand-drawn sketches of the layout so this can enable you to design the project in faster pace of time.
 </p>
 
-- Stage 4: **Prototype—Start to Create Solutions**
-
-  - build a representation of one or more of your ideas to show others
-  - combine, expand, and refine ideas
-  - create multiple drafts
-<p align="justify"> 
-This is an experimental phase. The aim is to identify the best possible solution for each problem found. Your team should produce some inexpensive, scaled-down versions of the product (or specific features found within the product) to investigate the ideas you’ve generated. This could involve simply paper prototyping.
+- **Start Designing**
+<p align="justify">
+Now take the best idea of design and digitize it, either tracing over your illustrations or re-creating concepts on a computer to share it with the client.
+Get busy with design software and start creating many versions of your selected sketches. Creating many variations of the design will allow you to present options to the client so they can pick the most suitable design. Try mixing and matching color palettes, typographic pairings to create variation.
 </p>
 
-- Stage 5: **Test—Try Your Solutions Out**
+- **Presenting your Design**
+<p align="justify">
+Present design in such way that your client get impressed instantly. Use mock-ups, which will help them visualize the overall result. Presenting a design efficaciously involves a great deal of confidence the key is to make your client believe that you are an expert in what you do so that they trust your designs and ideas.
+</p>
 
-  - seek feedback from a diverse group of people including end-users
-  - review the objective and determine if the solution met its goals
-  - avoid consensus thinking and ownership of ideas
-  - discuss what could be improved
-<p align="justify"> 
-Evaluators rigorously test the prototypes. Although this is the final phase, design thinking is iterative: Teams often use the results to redefineone or more further problems. So, you can return to previous stages to make further iterations, alterations and refinements – to find or rule out alternative solutions.
+- **Feedback**
+<p align="justify">
+Feedback is vital for visual designers,  and other types of creative professionals, as it provides them with an alternative point of view, critique or advice that will help them improve their design work.
+</p>
 
-These stages are different modes which contribute to the entire design project, rather than sequential steps.
+- **Final Design**
+<p align="justify">
+Once the project is approved by the client then the final design can be submitted.
 </p>
